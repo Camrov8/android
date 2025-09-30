@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cálculo do IMC</string>
+    <string name="titulo">Índice de Massa Corporal</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="txt_calcular">Calcular</string>
+    <string name="resultado">0</string>
+    <string name="ajuda">\?</string>
+    <string name="go_button_desc">Go</string>
+</resources>

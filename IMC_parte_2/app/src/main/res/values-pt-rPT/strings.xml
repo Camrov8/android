@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="titulo">Índice de Massa Corporal</string>
+    <string name="peso">o seu peso (kg)</string>
+    <string name="altura">a sua altura (m)</string>
+    <string name="calcular">Calcular</string>
+    <string name="tabela1" >Baixo peso</string>
+    <string name="tabela2">Adequado</string>
+    <string name="tabela3">Sobrepeso</string>
+    <string name="tabela4">Obesidade classe 1</string>
+    <string name="tabela5">Obesidade classe 2</string>
+    <string name="tabela6">Obesidade classe 3</string>
+</resources>

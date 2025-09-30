@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="titulo">Body Mass Index</string>
+    <string name="resultado" translatable="false">0</string>
+    <string name="ajuda" translatable="false">\?</string>
+    <string name="peso">your weight (kg)</string>
+    <string name="altura">your height (m)</string>
+    <string name="calcular">Calculate</string>
+    <string name="tabela1">Low weight</string>
+    <string name="tabela2">Adjusted</string>
+    <string name="tabela3">Overweight</string>
+    <string name="tabela4">Obese class 1</string>
+    <string name="tabela5">Obese class 2</string>
+    <string name="tabela6">Obese class 3</string>
+</resources>
